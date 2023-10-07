@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.bannerImg {
+  max-width: 100%;
+  height: auto;
+  margin-top: 12px;
+}
+.luxepagetitle{
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+.card{
+  margin-bottom: 20px;
+}
+.card-img-top{
+    object-fit: cover;
+    height: 416px;
+}
+.luxepageimg {
+  height: 416px;
+  object-fit: contain;
+}
+.cardcontainers{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
